@@ -7,8 +7,6 @@
 
 
 
-
-
 ![Gif de gato cantando](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 
@@ -29,6 +27,9 @@ var myVar = "Hello, world!";
 ```
 
 
+- [x] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself
 
 
 
