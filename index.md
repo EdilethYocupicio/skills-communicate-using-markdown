@@ -15,9 +15,18 @@
 
 
 
-
-
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+ ```r
+library(tidyverse)
+library(lubridate)
+paste('Hola, mundo siendo el día', Sys.Date())
+```
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
